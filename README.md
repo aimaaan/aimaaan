@@ -1,4 +1,4 @@
-<h1 align="center">### Hi there 👋, I'm Arif Aiman</h1>
+<h1 align="center">Hi there 👋, I'm Arif Aiman</h1>
 <h3 align="center">A passionate Information Security student</h3>
 
 - 🌱 I’m currently learning **Web application security**
