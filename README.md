@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif Aiman</h1>
 <h3 align="center">A passionate Information Security student</h3>
 
-- 🌱 I’m currently learning **Web application security**
+- 🌱 I’m currently **Final Year Student**
 
 - 📫 How to reach me **aimnfauzi98@gmail.com**
 
