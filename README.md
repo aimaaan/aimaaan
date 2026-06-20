@@ -1,20 +1,20 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Arif Aiman</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC Analyst | Information Security Graduate</h3>
+<h3 align="center">SOC Analyst | DFIR Enthusiast | Information Security Graduate</h3>
 
 <p align="center">
-  Passionate about cybersecurity, threat detection, incident response, and building practical security-focused projects.
+  Passionate about threat detection, incident response, digital forensics, and building practical security-focused projects.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔐 Currently working in **Security Operations / SOC**
+- 🔐 Currently working as a **SOC Level 1 Analyst** at a digital asset exchange (crypto/fintech)
 - 🎓 Background in **Information Assurance and Security**
-- 🛡️ Interested in **Blue Team Operations, Threat Hunting, Digital Forensics, and Cloud Security**
-- 🚗 Built a Final Year Project focused on **CAN Bus Forensic Analysis and Real-Time Vehicle Telemetry Monitoring**
-- 📚 Continuously learning about **SIEM, EDR, Cloud Security, Malware Analysis, and Incident Response**
+- 🛡️ Focused on **Blue Team Operations, Threat Hunting, DFIR, and Cloud Security**
+- 🚗 Final Year Project: **CAN Bus Forensic Analysis & Real-Time Vehicle Telemetry Monitoring** (Python · Flask · Next.js · Arduino)
+- 📚 Currently studying for **CHFI v11 (312-49)** and **CompTIA Security+ SY0-701**
+- 🧩 Active on **Hack The Box** — working toward Hacker rank
 - 📫 Reach me at **arifaimn.fauzi@gmail.com**
 
 ---
@@ -26,6 +26,19 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimnfauzi" height="30" width="40" />
 </a>
 </p>
+
+---
+
+### 🛡️ Security Tools & Platforms
+
+| Category | Tools |
+|---|---|
+| SIEM / XDR | Stellar Cyber, Trend Vision One (TMES) |
+| EDR | CrowdStrike Falcon |
+| Cloud Security | AWS GuardDuty |
+| Threat Intel | MITRE ATT\&CK, VirusTotal, Shodan |
+| DFIR | Wireshark, Autopsy, Volatility |
+| Blockchain Forensics | Chainalysis, Breadcrumbs, Arkham |
 
 ---
 
@@ -74,33 +87,31 @@
 
 ### 🔍 Cybersecurity Interests
 
-- Security Operations Center  
-- SIEM Monitoring  
-- Incident Response  
-- Threat Intelligence  
-- Digital Forensics  
-- Endpoint Detection and Response  
-- Cloud Security  
-- Vulnerability Management  
+- Security Operations Center (SOC)
+- SIEM Monitoring & Alert Triage
+- Phishing / Email Forensics
+- Incident Response & DFIR
+- Threat Hunting & Intelligence
+- Endpoint Detection and Response (EDR)
+- Cloud Security
+- Vulnerability Management
 
 ---
 
-### 📌 Featured Focus Areas
+### 📌 Focus Areas
 
-```text
-Blue Team Security | SOC Operations | Threat Detection | Digital Forensics | Cloud Security
-````
+`Blue Team Security` &nbsp;·&nbsp; `SOC Operations` &nbsp;·&nbsp; `Threat Detection` &nbsp;·&nbsp; `Digital Forensics` &nbsp;·&nbsp; `Cloud Security`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aimnfauzi98&show_icons=true&locale=en" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aimnfauzi98&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimnfauzi98" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimnfauzi98&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -108,6 +119,3 @@ Blue Team Security | SOC Operations | Threat Detection | Digital Forensics | Clo
 ### ✨ Motto
 
 > Keep learning, keep improving, and stay curious in cybersecurity.
-
-```
-```
