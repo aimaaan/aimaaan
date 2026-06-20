@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 Currently working as a **SOC Level 1 Analyst** at a digital asset exchange (crypto/fintech)
+- 🔐 Currently working as a **SOC Level 1 Analyst** 
 - 🎓 Background in **Information Assurance and Security**
 - 🛡️ Focused on **Blue Team Operations, Threat Hunting, DFIR, and Cloud Security**
 - 🚗 Final Year Project: **CAN Bus Forensic Analysis & Real-Time Vehicle Telemetry Monitoring** (Python · Flask · Next.js · Arduino)
@@ -38,7 +38,6 @@
 | Cloud Security | AWS GuardDuty |
 | Threat Intel | MITRE ATT\&CK, VirusTotal, Shodan |
 | DFIR | Wireshark, Autopsy, Volatility |
-| Blockchain Forensics | Chainalysis, Breadcrumbs, Arkham |
 
 ---
 
@@ -107,11 +106,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aimnfauzi98&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aimaaan&show_icons=true&theme=dark&hide_border=true&locale=en" height="160" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=aimaaan&theme=dark&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimnfauzi98&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimaaan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
